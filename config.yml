@@ -19,12 +19,12 @@ sections:
   subnav_template: buildservice_subnav.erb
   product_info:
     use_local_header: true
-    latest_stable_version: 0.0.3
+    latest_stable_version: '0.0.3'
     changelog_href:
     local_header_img: /images/cloud_rings.png
-    local_header_title: Pivotal Platform Build Service
-    search_placeholder: Search Build Service
+    local_header_title: Pivotal Build Service
+    search_placeholder: Search Pivotal Build Service
     url_prefix: build-service/0-0-3
-    local_product_version: 0.0.3
+    local_product_version: '0.0.3'
     local_header_links: []
     local_header_version_list:
