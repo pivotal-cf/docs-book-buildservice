@@ -1,0 +1,31 @@
+---
+book_repo: pivotal-cf/docs-book-buildservice
+layout_repo: pivotal-cf/docs-layout-repo
+layout_repo_ref: master
+feedback_enabled: true
+
+broken_link_exclusions: iefix|arrowhead
+repo_link_enabled: true
+
+public_host: docs.pivotal.io
+
+elastic_search: true
+
+sections:
+
+- repository:
+    name: pivotal-cf/docs-build-service
+    ref: '2.7'
+  directory: platform/buildservice/2-7
+  subnav_template: buildservice_subnav_2_7.erb
+  product_info:
+    use_local_header: true
+    latest_stable_version: 2.7
+    changelog_href:
+    local_header_img: /images/cloud_rings.png
+    local_header_title: Pivotal Platform Build Service
+    search_placeholder: Search Build Service
+    url_prefix: platform/buildservice/2-7
+    local_product_version: 2.7
+    local_header_links: []
+    local_header_version_list:
