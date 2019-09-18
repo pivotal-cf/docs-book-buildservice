@@ -14,7 +14,15 @@ template_variables:
   global_header_product_href: https://network.pivotal.io/
   global_header_product_link_text: Downloads
   gtm_account_id: GTM-MW4LZHR
+
+# Global product variables
+  app_runtime_full: Pivotal Application Service
+  app_runtime: Application Service
+  k8s_runtime_full: Enterprise Pivotal Container Service (Enterprise PKS)
+  k8s_runtime: Enterprise PKS
+  windows_runtime_full: Pivotal Application Service for Windows
+  windows_runtime: Application Service for Windows
+
+# Local product variables
   version_for_link: 0-0-3
-  pks_product_full: Enterprise Pivotal Container Service (Enterprise PKS)
-  pks_product_short: Enterprise PKS
-  pks_product_tile: Enterprise PKS
+
