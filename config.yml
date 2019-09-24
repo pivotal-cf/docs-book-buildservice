@@ -22,7 +22,7 @@ sections:
     latest_stable_version: '0.0.3'
     changelog_href:
     local_header_img: /images/cloud_rings.png
-    local_header_title: Pivotal Build Service
+    local_header_title: Pivotal Build Service (Alpha)
     search_placeholder: Search Pivotal Build Service
     url_prefix: platform/build-service/0-0-3
     local_product_version: '0.0.3'
