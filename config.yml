@@ -15,7 +15,7 @@ sections:
 
 - repository:
     name: pivotal-cf/docs-build-service
-    ref: 'master'
+    ref: 'v0.0.3'
   directory: platform/build-service/0-0-3
   subnav_template: buildservice_subnav.erb
   product_info:
