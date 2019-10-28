@@ -15,16 +15,19 @@ sections:
 
 - repository:
     name: pivotal-cf/docs-build-service
-  directory: platform/build-service/0-0-3
+    ref: 'master'
+  directory: platform/build-service/0-0-4
   subnav_template: buildservice_subnav.erb
   product_info:
     use_local_header: true
-    latest_stable_version: '0.0.3'
+    latest_stable_version: '0.0.4'
     changelog_href:
     local_header_img: /images/cloud_rings.png
     local_header_title: Pivotal Build Service (Alpha)
     search_placeholder: Search Pivotal Build Service
-    url_prefix: platform/build-service/0-0-3
-    local_product_version: '0.0.3'
+    url_prefix: platform/build-service/0-0-4
+    local_product_version: '0.0.4'
     local_header_links: []
     local_header_version_list:
+      - url_prefix: https://docs-pcf-staging.cfapps.io/platform/build-service/0-0-3
+        display_name: v0.0.3
