@@ -15,7 +15,7 @@ sections:
 
 - repository:
     name: pivotal-cf/docs-build-service
-    ref: 'master'
+    ref: 'v0.0.4'
   directory: platform/build-service/0-0-4
   subnav_template: buildservice_subnav-0-0-4.erb
   product_info:
@@ -29,5 +29,5 @@ sections:
     local_product_version: '0.0.4'
     local_header_links: []
     local_header_version_list:
-      - url_prefix: https://docs-pcf-staging.cfapps.io/platform/build-service/0-0-3
-        display_name: v0.0.3
+      - url_prefix: https://docs-pcf-staging.cfapps.io/platform/build-service/0-0-4
+        display_name: v0.0.4
