@@ -24,5 +24,4 @@ template_variables:
   windows_runtime: Application Service for Windows
 
 # Local product variables
-  version_for_link: 0-0-3
-
+  version_for_link: 0-0-5
