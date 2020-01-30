@@ -13,15 +13,27 @@ template_variables:
   use_global_header: true
   global_header_product_href: https://network.pivotal.io/
   global_header_product_link_text: Downloads
+
   gtm_account_id: GTM-MW4LZHR
 
 # Global product variables
+  platform_name: Pivotal Platform
+  platform_old: Pivotal Cloud Foundry
+  platform_code: PCF
+  product_name_lc: pcf
+  ops_manager_full: Pivotal Operations Manager
+  ops_manager: Ops Manager
   app_runtime_full: Pivotal Application Service
-  app_runtime: Application Service
-  k8s_runtime_full: Enterprise Pivotal Container Service (Enterprise PKS)
-  k8s_runtime: Enterprise PKS
+  segment_runtime_full: Pivotal Isolation Segment
+  app_runtime_abbr: PAS
+  app_runtime_abbr_lc: pas
   windows_runtime_full: Pivotal Application Service for Windows
-  windows_runtime: Application Service for Windows
+  windows_runtime_abbr: PASW
+  k8s_runtime_full: Enterprise Pivotal Container Service
+  k8s_runtime_abbr: PKS
 
 # Local product variables
   version_for_link: 0-0-5
+
+# Book content variables
+  recommended_by: Pivotal
