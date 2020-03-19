@@ -1,7 +1,6 @@
 ---
 book_repo: pivotal-cf/docs-book-buildservice
 layout_repo: pivotal-cf/docs-layout-repo
-layout_repo_ref: master
 layout_repo_ref: edge
 feedback_enabled: true
 
@@ -17,8 +16,8 @@ sections:
 - repository:
     name: pivotal-cf/docs-build-service
     ref: 'master'
-  directory: build-service/0-0-5
-  subnav_template: buildservice_subnav-0-0-5.erb
+  directory: build-service/0-1-0
+  subnav_template: buildservice_subnav-0-1-0.erb
   product_info:
     use_local_header: true
     latest_stable_version: '0.0.5'
@@ -26,10 +25,12 @@ sections:
     local_header_img: /images/cloud_rings.png
     local_header_title: Pivotal Build Service (Alpha)
     search_placeholder: Search Pivotal Build Service
-    url_prefix: build-service/0-0-5
-    local_product_version: '0.0.5'
+    url_prefix: build-service/0-1-0
+    local_product_version: '0-1-0'
     local_header_links: []
     local_header_version_list:
+      - url_prefix: https://docs.pivotal.io/build-service/0-1-0
+        display_name: v0.1.0
       - url_prefix: https://docs.pivotal.io/build-service/0-0-4
         display_name: v0.0.4
       - url_prefix: https://docs.pivotal.io/build-service/0-0-3
