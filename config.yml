@@ -26,7 +26,7 @@ sections:
     local_header_title: Pivotal Build Service (Alpha)
     search_placeholder: Search Pivotal Build Service
     url_prefix: build-service/0-0-4
-    local_product_version: '0.0.4'
+    local_product_version: 'v0.0.4'
     local_header_links: []
     local_header_version_list:
       - url_prefix: https://docs.pivotal.io/build-service/0-0-3
