@@ -26,7 +26,7 @@ sections:
     local_header_title: Tanzu Build Service (Beta)
     search_placeholder: Search Tanzu Build Service
     url_prefix: build-service/0-1-0
-    local_product_version: '0-1-0'
+    local_product_version: 'v0.1.0'
     local_header_links: []
     local_header_version_list:
       - url_prefix: https://docs.pivotal.io/build-service/0-0-4
