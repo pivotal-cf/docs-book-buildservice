@@ -29,8 +29,8 @@ template_variables:
   app_runtime_abbr_lc: pas
   windows_runtime_full: Pivotal Application Service for Windows
   windows_runtime_abbr: PASW
-  k8s_runtime_full: Enterprise Pivotal Container Service
-  k8s_runtime_abbr: PKS
+  k8s_runtime_full: Tanzu Kubernetes Grid Integrated Edition
+  k8s_runtime_abbr: TKGI
 
 # Local product variables
   version_for_link: 0-1-0
