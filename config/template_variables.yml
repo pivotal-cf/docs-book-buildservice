@@ -33,7 +33,7 @@ template_variables:
   k8s_runtime_abbr: TKGI
 
 # Local product variables
-  version_for_link: 0-1-0
+  version_for_link: 0-2-0
 
 # Book content variables
   recommended_by: Pivotal
