@@ -33,3 +33,7 @@ sections:
         display_name: v0.2.0
       - url_prefix: https://docs.pivotal.io/build-service/0-1-0
         display_name: v0.1.0
+      - url_prefix: https://docs.pivotal.io/build-service/0-0-4
+        display_name: v0.0.4
+      - url_prefix: https://docs.pivotal.io/build-service/0-0-3
+        display_name: v0.0.3
