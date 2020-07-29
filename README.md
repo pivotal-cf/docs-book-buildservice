@@ -1,6 +1,6 @@
 # Tanzu Build Service Documentation
 
-This repository contains content and metadata for Tanzu Build Service documentation. We publish the Tanzu Build Service documentation at
+This repository contains structure, subnavs, and metadata for Tanzu Build Service documentation. We publish the Tanzu Build Service documentation at
 [https://docs.pivotal.io/build-service/index.html](https://docs.pivotal.io/build-service/index.html).
 
 ## How To Contribute
