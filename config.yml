@@ -15,12 +15,12 @@ sections:
 
 - repository:
     name: pivotal-cf/docs-build-service
-    ref: 'master'
+    ref: 'v1.0'
   directory: build-service/1-0
   subnav_template: buildservice_subnav-1-0.erb
   product_info:
     use_local_header: true
-    latest_stable_version: '0.2.0'
+    latest_stable_version: '1.0'
     changelog_href:
     local_header_img: /images/cloud_rings.png
     local_header_title: Tanzu Build Service
