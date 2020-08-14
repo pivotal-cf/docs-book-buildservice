@@ -1,7 +1,7 @@
 ---
 book_repo: pivotal-cf/docs-book-buildservice
 layout_repo: pivotal-cf/docs-layout-repo
-layout_repo_ref: edge
+layout_repo_ref: master
 feedback_enabled: true
 
 broken_link_exclusions: iefix|arrowhead
@@ -29,11 +29,3 @@ sections:
     local_product_version: '1.0'
     local_header_links: []
     local_header_version_list:
-      - url_prefix: https://docs.pivotal.io/build-service/0-2-0
-        display_name: v0.2.0
-      - url_prefix: https://docs.pivotal.io/build-service/0-1-0
-        display_name: v0.1.0
-      - url_prefix: https://docs.pivotal.io/build-service/0-0-4
-        display_name: v0.0.4
-      - url_prefix: https://docs.pivotal.io/build-service/0-0-3
-        display_name: v0.0.3
