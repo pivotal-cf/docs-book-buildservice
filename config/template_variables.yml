@@ -8,8 +8,8 @@ template_variables:
   product_url: https://network.pivotal.io/products/pivotal-cf
   product_link: <div class="header-item"><a href="https://network.pivotal.io/products/pivotal-cf">Back to Product Page</a></div>
   support_link: <a href="http://support.pivotal.io" target="_blank">Support</a>
-  support_call_to_action: <a href="http://support.pivotal.io" target="_blank">Need Support?</a>
-  support_url: http://support.pivotal.io
+  support_call_to_action: <a href="https://support.pivotal.io" target="_blank">Need Support?</a>
+  support_url: https://support.pivotal.io
   use_global_header: true
   global_header_product_href: https://network.pivotal.io/
   global_header_product_link_text: Downloads
