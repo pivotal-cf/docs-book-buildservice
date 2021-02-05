@@ -31,3 +31,5 @@ sections:
     local_header_version_list:
       - url_prefix: https://docs.pivotal.io/build-service/1-1
         display_name: v1.1
+      - url_prefix: https://docs.pivotal.io/build-service/1-0
+        display_name: v1.0
