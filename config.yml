@@ -20,7 +20,7 @@ sections:
   subnav_template: buildservice_subnav-0-0-4.erb
   product_info:
     use_local_header: true
-    latest_stable_version: '0.1.0'
+    latest_stable_version: '1.1'
     changelog_href:
     local_header_img: /images/cloud_rings.png
     local_header_title: Pivotal Build Service (Alpha)
@@ -29,13 +29,13 @@ sections:
     local_product_version: '0.0.4'
     local_header_links: []
     local_header_version_list:
+      - url_prefix: https://docs.pivotal.io/build-service/1-1
+        display_name: v1.1
       - url_prefix: https://docs.pivotal.io/build-service/1-0
         display_name: v1.0
       - url_prefix: https://docs.pivotal.io/build-service/0-2-0
         display_name: v0.2.0
       - url_prefix: https://docs.pivotal.io/build-service/0-1-0
         display_name: v0.1.0
-      - url_prefix: https://docs.pivotal.io/build-service/0-0-4
-        display_name: v0.0.4
       - url_prefix: https://docs.pivotal.io/build-service/0-0-3
         display_name: v0.0.3
