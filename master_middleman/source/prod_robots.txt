@@ -1,0 +1,10 @@
+User-agent: *
+Noindex: /build-service/1-0
+Noindex: /build-service/0-0-4
+Noindex: /build-service/0-1-0
+Noindex: /build-service/0-2-0
+
+Disallow: /build-service/1-0
+Disallow: /build-service/0-0-4
+Disallow: /build-service/0-1-0
+Disallow: /build-service/0-2-0
