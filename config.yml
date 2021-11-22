@@ -29,8 +29,6 @@ sections:
     local_product_version: '1.0'
     local_header_links: []
     local_header_version_list:
-      - url_prefix: https://docs.vmware.com/en/Tanzu-Build-Service/1.3/vmware-tanzu-build-service-v13/GUID-docs-build-service-index.html
-        display_name: v1.3
       - url_prefix: https://docs.pivotal.io/build-service/1-2
         display_name: v1.2
       - url_prefix: https://docs.pivotal.io/build-service/1-1
