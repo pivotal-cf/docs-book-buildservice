@@ -17,15 +17,7 @@ the source for this page in GitHub" at the bottom of the topic.
 
 ## Versions and Branching
 
-| **Branch Name** | **Content** | **Location** |
-|-----------------|-------------|--------------|
-| `main` | DO NOT USE | |
-| `v1.1`   | Tanzu Build Service 1.1    | https://docs.pivotal.io/build-service/1-1/ |
-| `v1.0`   | Tanzu Build Service 1.0    | https://docs.pivotal.io/build-service/1-0/  |
-| `v0.2.0` | Tanzu Build Service 0.2.0  | https://docs.pivotal.io/build-service/0-2-0/ |
-| `v0.1.0` | Tanzu Build Service 0.1.0  | https://docs.pivotal.io/build-service/0-1-0/ |
-| `v0.0.4` | Tanzu Build Service 0.0.4  | https://docs.pivotal.io/build-service/0-0-4/ |
-| `v0.0.3` | Tanzu Build Service 0.0.3  | https://docs.pivotal.io/build-service/0-0-3/ |
+See https://github.com/pivotal-cf/docs-build-service
 
 ## Continuous Integration and Continuous Delivery
 
